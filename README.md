@@ -18,6 +18,6 @@ Incluye enlaces relevantes sobre documentación, repositorios, herramientas de g
 - [Enlace a los documento del proyecto en Google Drive](https://drive.google.com/drive/folders/1v3ELq7RsiBSrZRNbResNPgnqcrwZaPIp?usp=share_link)
 
 
-Por favor, consultar estos recursos para obtener información detallada sobre el proyecto ApiRestFull para Scotia Tech Call Center. Si necesitas acceso adicional o tienes alguna pregunta, no dudes en contactar al equipo responsable del proyecto.
+Por favor, consultar estos recursos para obtener información detallada sobre el proyecto Ecolavado. Si necesitas acceso adicional o tienes alguna pregunta, no dudes en contactar al equipo responsable del proyecto.
 
 📧 Correo electrónico: [jszambrano@corhuila.edu.co](mailto:jszambrano@corhuila.edu.co)
